@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct CoreMotionTestApp: App {
+    
+    
+    
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CircleTest()
         }
     }
 }
